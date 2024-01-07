@@ -6,6 +6,7 @@
 
 Developed a machine learning model for predicting price of different cars with linear regression.
 The following modules were used:
+
 1) NumPy
 2) Pandas
 3) Matplotlib
